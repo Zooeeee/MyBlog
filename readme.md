@@ -15,3 +15,7 @@ hexo new post ${文章标题}
 npm run  clean
 npm run build
 npm  run deploy
+
+
+# git静态站点地址
+Zooeeee.github.io
